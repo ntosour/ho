@@ -1,0 +1,97 @@
+*{
+  margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: brown;
+
+}
+
+.Menu{
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+
+
+}
+.Menu h1{
+color: #f1356d;
+}
+
+.Menu .links{
+  margin-left: auto;
+}
+
+.Menu a{
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+
+.Menu a:hover{
+  color: rgb(0, 255, 64);
+}
+
+.content{
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.frank{
+  text-align: left;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 8px;
+  color: blue;
+}
+
+.blog-preview{
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid red;
+}
+
+.blog-preview:hover{
+  box-shadow: 1px 3px 5px rba(0,0,0,0,1) ;
+}
+
+.blog-preview h2{
+  font-size: 20px;
+  color: red;
+  margin-bottom: 8px;
+}
+.blog-preview a{
+  text-decoration: none;
+}
+
+.blog-details div{
+  margin: 20px 0;
+}
+
+.blog-details h2{
+  font-size: 20px;
+  color: red;
+  margin-bottom: 10px;
+}
+
+#l1:hover{
+color: aqua;
+width: 10px;
+height: 5px;
+padding: auto;
+}
+
+.Create {
+  background-color: #f1356d;
+}
+
+#bnt {
+  background-color: #f1356d;
+  text-align: center;
+}
+
+
+
+
+
